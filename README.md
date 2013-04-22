@@ -15,7 +15,9 @@ signing APK and getting certificate keys for Google Maps API and Facebook API.
 Written by
 ==========
 
-* [Petr Nohejl](http://petrnohejl.cz)
+[Petr Nohejl](http://petrnohejl.cz), 2012
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4VNK2T7UYQLEN)
 
 
 License
