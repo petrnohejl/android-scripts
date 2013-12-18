@@ -1,9 +1,11 @@
 Android Scripts
 ===============
 
-Android Scripts is a collection of Batch scripts for OS Windows. It is for
-signing APK and getting certificate keys for Google Maps API and Facebook API.
+Android Scripts is a collection of Python/Batch scripts for OS Windows. It is for
+building project, signing APK and getting certificate keys for Google Maps API
+and Facebook API.
 
+* build.py - building script for Android app using Ant
 * certkey.bat - getting BKS keystore of my self-signed certificate
 * facebookkey.bat - getting Android key hash for Facebook app
 * facebookkeydebug.bat - getting Android debug key hash for Facebook app
@@ -15,7 +17,7 @@ signing APK and getting certificate keys for Google Maps API and Facebook API.
 Written by
 ==========
 
-[Petr Nohejl](http://petrnohejl.cz), 2012
+[Petr Nohejl](http://petrnohejl.cz), 2012-2013
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4VNK2T7UYQLEN)
 
